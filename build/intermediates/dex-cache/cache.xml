@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_a3130eb22995e9d6ef7742c5b9c40710c1b66f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.6/b036abbb61656165da99cf44898e4b9123687e65/MPAndroidChart-v2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.6_706aa01defb8c41478ccfcccb379d5c43086d409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_2c0b83dcd58102677b47d18d036c5e5e69736496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_62956463e333c35a561082e0ceba6d05e6905896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_bad2727aa75fb3192086e8377bf416c279f44f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_9d938d17c1b875dac3f0a6296d71440f36dc91a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="db4a8e79fec71945174a586e070f290e41d94246">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/instant-run-bootstrap_740f0a4a95b25d880aa1beb82fe1b4b934b1a7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_44bfe009a4b4ef200eee432b84dd3dacb0a463bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_102c67367fe4bccc7896934911aa86deb398ad09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_53c9683b84a8c214f887eda4589ec15d2f2603a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d40ab871343dc875ae528b55a16f954cc2056c33">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/instant-run_23e1abd045b7ed497d26e7df8354ca849771d4a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_69dc1af022a8a60c3635ca2194892e8503465b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_59b102cffa85803e51da0d7c81cd55b2a92b5e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_c5255545d88f88f096988005cf9543a98cc1e734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_be87f215cbaa829bf7f903aadcb80fc51de4ab0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_2ab8d8ae7aeeed804295d68c099e56ee4011936d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_62d6d5e7f2309f0b3e23dc46b38c8f759f616651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_b36fcead99a3da83039af8ac0854d2d01f0ad190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_20e5e5667fcdb83cfa5cf5138dd5210ae8b9daae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aman/Downloads/application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/aman/Downloads/application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1231e3461ce8db5ecd43666fd679463158a26d1a.jar" />
+    </item>
+
+</items>
